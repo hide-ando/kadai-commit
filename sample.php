@@ -11,4 +11,3 @@
             <button type="submit" name="act" value="draw">おみくじをひく！</button>
         </form>
     </body>
-</html>
